@@ -1,0 +1,17 @@
+{
+  "name": "vagrant/cart-test",
+  "description": "TEST",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cosmos Weng",
+      "email": "cosmos-s@hotmail.com.tw"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
